@@ -19,8 +19,3 @@ A simple Java AWT-based GUI application to input and display student details suc
 ## ✅ Requirements
 
 - Java JDK 8 or later
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
